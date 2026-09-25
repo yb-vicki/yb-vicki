@@ -19,5 +19,5 @@ Data cleaning, exploratory analysis, and visualization exercises — the fundame
 - 🐍 Learning: backtesting methodology, applied statistics, systematic strategy design
 
 ## Let's connect
-[LinkedIn](https://www.linkedin.com/in/victor-mungai-0320a5306) · [GitHub](https://github.com/yb-vicki)
+[LinkedIn](https://www.linkedin.com/in/victor-mungai-0320a5306) 
 
